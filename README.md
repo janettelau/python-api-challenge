@@ -21,7 +21,7 @@
 
 ## Output
 The Jupyter Notebook analyzes the data and generates the required DataFrames, plots, and interactive maps for the report:
-![Latitude vs Temperature](output_data/Fig1.png)
-![Latitude vs Humidity](output_data/Fig2.png)
-![Latitude vs Cloudiness](output_data/Fig3.png)
-![Latitude vs Wind Speed](output_data/Fig4.png)
+![Latitude vs Temperature](WeatherPy_VacationPy/output_data/Fig1.png)
+![Latitude vs Humidity](WeatherPy_VacationPy/output_data/Fig2.png)
+![Latitude vs Cloudiness](WeatherPy_VacationPy/output_data/Fig3.png)
+![Latitude vs Wind Speed](WeatherPy_VacationPy/output_data/Fig4.png)
