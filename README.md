@@ -23,14 +23,10 @@
 ## Output – WeatherPy.ipynb
 The Jupyter Notebook analyzes the data and generates the required DataFrames, plots, and interactive maps for the report:
 - `cities.csv`: Exported the list of cities and their weather data into a CSV.
-- Latitude vs Temperature
-  ![Latitude vs Temperature](WeatherPy_VacationPy/output_data/Fig1.png)
-- Latitude vs Humidity
-  ![Latitude vs Humidity](WeatherPy_VacationPy/output_data/Fig2.png)
-- Latitude vs Cloudiness
-  ![Latitude vs Cloudiness](WeatherPy_VacationPy/output_data/Fig3.png)
-- Latitude vs Wind Speed
-  ![Latitude vs Wind Speed](WeatherPy_VacationPy/output_data/Fig4.png)
+- ![Latitude vs Temperature](WeatherPy_VacationPy/output_data/Fig1.png)
+- ![Latitude vs Humidity](WeatherPy_VacationPy/output_data/Fig2.png)
+- ![Latitude vs Cloudiness](WeatherPy_VacationPy/output_data/Fig3.png)
+- ![Latitude vs Wind Speed](WeatherPy_VacationPy/output_data/Fig4.png)
 - Linear Regression Plots: Separated into Northern and Southern Hemispheres
   - Temperature vs Latitude: The r^2 values indicate a strong correlation. The maximum temperature increases as we approach the equator.
   - Humidity / Cloudiness / Wind Speed vs Latitude: The r^2 values indicate very weak to no correlation.
